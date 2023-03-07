@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi 👋, I'm Eshwar k
 🔭I’m currently learning DSA in C and JAVA<br>👨‍💻 All of my projects and practice problems are available on GitHub<br>💬 Ask me about programming<br>📫 How to reach me eshwarappu135@gmail.com<br>⚡ Fun fact-I am lazy but smart
 
 
