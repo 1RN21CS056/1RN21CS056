@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1rn21cs056&label=Profile%20views&color=0e75b6&style=flat" alt="1rn21cs056" /> </p>
 
-- 🔭I’m currently learning **JAVA, Python and CSS**
+- 🔭I’m currently learning **Web Development**
 
 - 👨‍💻 All of my **projects and practice problems are available on GitHub**
 
