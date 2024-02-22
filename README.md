@@ -48,6 +48,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1rn21cs056&" alt="1rn21cs056" /></p>
 
 <!--- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
-![snake gif](https://github.com/1RN21CS056/1RN21CS056/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/1RN21CS056/1RN21CS056/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
