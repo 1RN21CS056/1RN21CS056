@@ -2,10 +2,18 @@
 
 ![logo](https://github.com/1RN21CS056/1RN21CS056/blob/main/Github_banner.png)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<!---<h1 align='center'>
+    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />, I'm Eshwar k</h1>
+         width="45" />
+    <bold>Everyone</bold>
+</h1> -->
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Eshwar+K!;" />
+</h1>
+         
 <h3 align="center">A passionate developer from India</h3>
 
 <!--- Added Gif-------------------------------------------------------------------------------------------------------------------------- -->
