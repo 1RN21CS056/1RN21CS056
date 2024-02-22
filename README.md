@@ -1,4 +1,4 @@
-<!--- -- Banner-------------------------------------------------------------------------------------------------------------------------- -->
+<!--- Banner-------------------------------------------------------------------------------------------------------------------------- -->
 
 ![logo](https://github.com/1RN21CS056/1RN21CS056/blob/main/Github_banner.png)
 
@@ -7,7 +7,8 @@
          height="45"
          width="45" />, I'm Eshwar k</h1>
 <h3 align="center">A passionate developer from India</h3>
-<!--- -- Added Gif-------------------------------------------------------------------------------------------------------------------------- -->
+
+<!--- Added Gif-------------------------------------------------------------------------------------------------------------------------- -->
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1rn21cs056&label=Profile%20views&color=0e75b6&style=flat" alt="1rn21cs056" /> </p>
@@ -38,12 +39,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1rn21cs056&" alt="1rn21cs056" /></p>
 
-
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
+<!--- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
