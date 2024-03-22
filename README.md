@@ -29,7 +29,7 @@
 
 - 📫 How to reach me **eshwarappu135@gmail.com**
 
-- ⚡ Fun fact **I am lazy.**
+- ⚡ Fun fact **404 error.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
