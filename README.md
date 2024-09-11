@@ -54,8 +54,8 @@
 
 <img align='center' height="70" alt="Thanks" width="100%" src="https://github.com/1RN21CS056/1RN21CS056/blob/main/images/marquee.svg"/>
 
-<img height="100%" width="100%" alt="Bottom" src="https://github.com/1RN21CS056/1RN21CS056/blob/main/images/footer.svg"/>
+<img height="100%" width="860" alt="Bottom" src="https://github.com/1RN21CS056/1RN21CS056/blob/main/images/footer.svg"/>
 
 
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"  height="100%" width="9000000000000000000000000000000000000" />
