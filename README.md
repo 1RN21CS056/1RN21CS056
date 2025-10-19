@@ -1,6 +1,8 @@
 <!--- Banner-------------------------------------------------------------------------------------------------------------------------- -->
 
-![logo](https://github.com/1RN21CS056/1RN21CS056/blob/main/Github_banner.png)
+<!-- ![logo](https://github.com/1RN21CS056/1RN21CS056/blob/main/Github_banner.png) -->
+
+![logo](https://github.com/1RN21CS056/1RN21CS056/blob/main/github_background.jpg)
 
 <!---<h1 align='center'>
     <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
